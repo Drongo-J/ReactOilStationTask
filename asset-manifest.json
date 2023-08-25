@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactOilStationTask/static/css/main.6259c70a.css",
+    "main.js": "/ReactOilStationTask/static/js/main.042e1c3c.js",
+    "static/js/787.baf9ddbe.chunk.js": "/ReactOilStationTask/static/js/787.baf9ddbe.chunk.js",
+    "index.html": "/ReactOilStationTask/index.html",
+    "main.6259c70a.css.map": "/ReactOilStationTask/static/css/main.6259c70a.css.map",
+    "main.042e1c3c.js.map": "/ReactOilStationTask/static/js/main.042e1c3c.js.map",
+    "787.baf9ddbe.chunk.js.map": "/ReactOilStationTask/static/js/787.baf9ddbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6259c70a.css",
+    "static/js/main.042e1c3c.js"
+  ]
+}
